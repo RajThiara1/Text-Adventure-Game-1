@@ -8,7 +8,7 @@ print("a) Scream for help.")
 print("b) Press the light switch")
 x = input("Enter a or b: ")
 if x == "a":
-    print("Someone hears yfrruytrttytuyour screams...")
+    print("zacks editfdsfgfdgfdgfdgdgdgfd screams...")
     # Continue adventuure Here
 elif x == "b":
     print("The light comes on.")
