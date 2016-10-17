@@ -8,8 +8,8 @@ print("a) Scream for help.")
 print("b) Press the light switch")
 x = input("Enter a or b: ")
 if x == "a":
-    print("Someone hears your screams...")
-    # Continue adventure Here
+    print("Someone hears yfrruytrttytuyour screams...")
+    # Continue adventuure Here
 elif x == "b":
     print("The light comes on.")
     print("You do not recognise the room but you have a really bad feeling...")
